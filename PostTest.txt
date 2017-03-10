@@ -1,0 +1,21 @@
+Macam-macam keyword yang ada di bahasa pemrograman visual:
+1. Determ
+Keyword yang digunakan untuk menentukan bahwa hanya boleh ad satu fakta dari suatu predikat sepanjang program tersebut dijalankan.
+2. Nondeterm
+Keyword yang digunakan untuk menentukan bahwa kemungkinan ada sejumlah fakta dari suatu predikat sepanjang program tersebut dijalankan (default).
+3. Global
+Keyword yang digunakan untuk menentukan bahwa section facts adalah global dalam program tersebut.
+4. Single
+Keyword yang digunakan untuk menentukan bahwa hanya satu fakta dari predikat yang akan selalu ada.
+5. Nocopy
+Keyword yang digunakan untuk menentukan normalnya pemanggilan fakta yang akan mengikat variabel ke sebuah string atau ke sebuah objek jamak.
+6. Clause
+Keyword yang digunakan untuk memberikan fakta-fakta yang ada untuk memberikan gambaran kepada VPE dalam melakukan pengujian untuk menjadi solusi dari pertanyaan yang diberikan.
+7. Domain
+Keyword yang digunakan untuk menyatakan jenis variabel atau argumen.
+8. Predicates
+Keyword yang digunakan untuk memberikan gambaran akan kata-kata yang ada di dalam program.
+9. Goal
+Keyword yang digunakan untuk menyatakan jenis variabel atau argumen.
+10. Facts
+Keyword yang digunakan untuk memulai section facts.
