@@ -1,0 +1,10 @@
+Analisis Bact Traccking CH04E07
+
+Goal yang dicari adalah model corvette dan goal yang dihasilkan dari program tersebut adalah red.
+1. mobil yang dapat dibeli mempunyai model dan warna jika mobil memiliki model, warna dan harga lalu warnanya harus seksi
+dan harganya lebih dari 25000.
+2. karna model corvette memiliki 2 warna maka telusuri warna pertama dahulu.
+3. pertama mobil corvette berwarna hitam. Karna warna hitam bukan warna yang seksi dan harganya tidak lebih dari 25000, maka
+corvette hitam bukan jawabannya.
+4. kedua mobil corvette berwarna merah. Karna warna merah merupakan warna yang seksi dan harganya adalah 26000, maka
+corvette merah merupakan jawabannya.
